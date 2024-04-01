@@ -24,7 +24,6 @@ nav {
     display: flex;
     margin: 12px;
     display: inline-block;
-    background-color: red;
 }
 
 .primary-navbar {
